@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378770587 source:c:\users\emmanuel\dropbox\cetys\5to semestre\sistemas operativos\borrar_comentarios_17368\main.c
+	<stdio.h>
+	<string.h>
+
